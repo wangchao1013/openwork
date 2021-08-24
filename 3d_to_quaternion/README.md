@@ -1,0 +1,5 @@
+# 3d_to_quaternion
+
+主要实现3D坐标到四元素映射，通过websocket实现client与server之间的通信
+
+运行bin/body_json_client.exe可以在test_server_print.exe查看打印信息

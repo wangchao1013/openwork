@@ -1,0 +1,456 @@
+{
+    "code": 0,
+    "data": {
+        "keyquaternions": [
+            {
+                "name": "LeftHand",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "LeftHandThumb1",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "LeftHandThumb2",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "LeftHandThumb3",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "LeftHandIndex1",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "LeftHandIndex2",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "LeftHandIndex3",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "LeftHandMiddle1",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "LeftHandMiddle2",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "LeftHandMiddle3",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "LeftHandRing1",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "LeftHandRing2",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "LeftHandRing3",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "LeftHandPinky1",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "LeftHandPinky2",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "LeftHandPinky3",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "RightHand",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": -0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "RightHandThumb1",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": -0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "RightHandThumb2",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": -0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "RightHandThumb3",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": -0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "RightHandIndex1",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": -0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "RightHandIndex2",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": -0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "RightHandIndex3",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": -0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "RightHandMiddle1",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": -0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "RightHandMiddle2",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": -0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "RightHandMiddle3",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": -0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "RightHandRing1",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": -0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "RightHandRing2",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": -0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "RightHandRing3",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": -0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "RightHandPinky1",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": -0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "RightHandPinky2",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": -0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            },
+            {
+                "name": "RightHandPinky3",
+                "quaternion": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": -0.0,
+                    "z": -0.0
+                },
+                "translation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            }
+        ]
+    },
+    "function": 1
+}
